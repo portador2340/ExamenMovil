@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Arodriguez</string>
+    <string name="btnatras">ATRAS</string>
+    <string name="btnsiguiente">SIGUIENTE</string>
+    <string name="btnregistrar">REGISTRAR</string>
+    <string name="btncan">CANCELAR</string>
+    <string name="btnsig">SIGUIENTE</string>
+    <string name="txtPre">PREGUNTA</string>
+</resources>
